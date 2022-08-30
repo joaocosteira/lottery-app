@@ -4,5 +4,6 @@ The smart contract used in this project can be found in the following [git](http
 
 ## Tecnologies Used:
 - Next.js
+- Solidity(For The Smart Contract)
 - React
 - Tailwind css
