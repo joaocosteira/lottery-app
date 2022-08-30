@@ -6,6 +6,8 @@ The smart contract used in this project can be found in the following [git](http
 ![log](https://github.com/joaocosteira/lottery-app/blob/main/readme_imgs/start.gif)
 
 ## End Game and Withdraw Winnings
+![log](https://github.com/joaocosteira/lottery-app/blob/main/readme_imgs/win.gif)
+
 ## Tecnologies Used:
 - Next.js
 - Solidity(For The Smart Contract)
